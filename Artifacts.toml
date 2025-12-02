@@ -1,101 +1,101 @@
 [[f4ncgb]]
 arch = "aarch64"
-git-tree-sha1 = "984987724926cf4d85b071c3c10fb9fa1d8edacf"
+git-tree-sha1 = "eeac3fa29878196c98f061739c33ae45c5d2bd35"
 os = "macos"
 
     [[f4ncgb.download]]
-    sha256 = "32283113a6f8c82b651eed9bfa0e677b231a572e7153c550c37e2404621131fd"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "0b8aac13b38cc3b86f215ccc373779ab05f959a1c98d5b21ccbeabf9db081020"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.aarch64-apple-darwin.tar.gz"
 [[f4ncgb]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29262c2fe3980200735ae59e82c907b30568168f"
+git-tree-sha1 = "ec8005f5e75ac6d9e44f8b0bb2eaeec275e8dee0"
 libc = "glibc"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "5f94094d206979aedab94eb728a482616c7f8094498093eaaf5ed83a7d386ece"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8c392499cc7bc0c06f040c6e0f870853f370345adb4dca3ae29c83764d0ab032"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.aarch64-linux-gnu-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b23ba7e6aeb5f5623b9cedc417a2dc6958b65abf"
+git-tree-sha1 = "fc759735af5646a2b5dfb85cbe3623e45cd3c0b2"
 libc = "musl"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "8961ba762bc89c567249f14e3afd21231188491bc37f6681f7bfa8450228e385"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "2b8b8155668ddaf11fd500f5e908cb7e76c14fcfac463361f078671e19baca43"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.aarch64-linux-musl-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "aarch64"
-git-tree-sha1 = "23b00a1a4f1637b15b57149aa46bb3ad3ba7eff3"
+git-tree-sha1 = "a027581bf566b4a31b02fd0f01309d4ad41d96dd"
 os = "freebsd"
 
     [[f4ncgb.download]]
-    sha256 = "5065009e2dd6daf3d46f0965cdb199f47ec6fd4f034b4aee34bdf6db26753191"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "d952f64960d15e2b5cccf7265ced8931007f84c34b22a872bed1eef7b7861cc1"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.aarch64-unknown-freebsd.tar.gz"
 [[f4ncgb]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4c974eb74b408752a3451a63ca453fde1ee419d"
+git-tree-sha1 = "574e699ae9e664211a66c28e07d11f67b5dd9db0"
 libc = "glibc"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "745d221158c4916107ead8aaf0bcb1024373ce110f072faadcc7bd0e63b89b04"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1fc55bb7f65c2a72917cb2efe66bab0869239aa0c139682c9c48bf2919768408"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b8e141c3e7646ac157776d9f8a24c710b6c65e6d"
+git-tree-sha1 = "64295d446cd5a5db9df7e0621a05b984fc6de2bb"
 libc = "glibc"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "a4a2d0487e2118c9cb8dc91de29a2cd39005387a7ff52c72bd0641f49a2c3419"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "9f98ee0b9aab5161cd530c27e3b8042a7b1050a38d0593379169019d59cd1c27"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.riscv64-linux-gnu-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "x86_64"
-git-tree-sha1 = "2bddda64c78ee04525edb06f4e66b545b30d33e0"
+git-tree-sha1 = "9baf4e34abb66ce548f40271da66b8404a672c8a"
 os = "macos"
 
     [[f4ncgb.download]]
-    sha256 = "55479e45b399302adf579a727423d072222d20cba16a4f37c43c5af5d31b2e25"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "8f77b645fba7f179591c5e79944fab87d9ac2dd03312f332d56afc738017cc0b"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.x86_64-apple-darwin.tar.gz"
 [[f4ncgb]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c717ceeaad93dbf860587a7a75d43d0b3586d05d"
+git-tree-sha1 = "ab7cf487833a9b1141eeb3c63abbf46f5327df91"
 libc = "glibc"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "ef966c2f68166a3c5555df8700a1ee3232600a2b95c5101e395c6eac1b6dff78"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "f43307ff1947257a3f4038b759a6e44dcf6048eb93fe8eaa3f8a2293dbdac54d"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.x86_64-linux-gnu-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c75263a8d88beac81c8e70417ab0763d0cd46684"
+git-tree-sha1 = "ac1c128399d2018dd966a756ce4a8161c0e90c91"
 libc = "musl"
 os = "linux"
 
     [[f4ncgb.download]]
-    sha256 = "fc570dd6438020e4779091f4b919c7c93b3c525d99b2947b92fb3d7886d490bc"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "3b911a87b843703801adde403b3a7bb1440a6ed67dfa29982132ffcaf1ef77fa"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.x86_64-linux-musl-cxx11.tar.gz"
 [[f4ncgb]]
 arch = "x86_64"
-git-tree-sha1 = "951b5ca617c8d4b70393a7a4ad3b6becdc54bb89"
+git-tree-sha1 = "a0d1eb43ab564ec89c11fcca69797adc613dc817"
 os = "freebsd"
 
     [[f4ncgb.download]]
-    sha256 = "fd930a03690d3868aaf8c2d46ad0491a39835f7de6ebd7579b9c84f5200e581a"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "df28b2fc4880aef0b22ebde478218455ddc1b2b3d9699f8833b8bdbdb535cb44"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.x86_64-unknown-freebsd.tar.gz"
 [[f4ncgb]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "818273f70d3b8704fd36db16d389d06cd7b4ec15"
+git-tree-sha1 = "3a0d21446eff92c4620cf65ad0a9c3fdf7b1cc76"
 os = "windows"
 
     [[f4ncgb.download]]
-    sha256 = "c14481dea1644c93ff58129d995cbfdaef540b873d4a1e59ab168b130c5123e0"
-    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.3.3+0/f4ncgb.v0.3.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "edd669621aa4543b0b746a61f4e303d351b9d960d54bcb41729f7636c4535426"
+    url = "https://github.com/JuliaBinaryWrappers/f4ncgb_jll.jl/releases/download/f4ncgb-v0.300.300+0/f4ncgb.v0.300.300.x86_64-w64-mingw32-cxx11.tar.gz"
